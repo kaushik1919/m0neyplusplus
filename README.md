@@ -1,4 +1,4 @@
-# Money++ Banking App Backend 🚀
+# Money++ Banking App  🚀
 
 Money++ is a **secure and AI-powered banking system** that provides authentication, loan eligibility prediction, document OCR, AI-powered chatbot assistance, and full-fledged banking functionalities.
 
@@ -69,3 +69,5 @@ Money++ is a **secure and AI-powered banking system** that provides authenticati
 
 ---
 
+## 🎥 Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/VnkRYjMMT-E/0.jpg)](https://www.youtube.com/shorts/VnkRYjMMT-E)
